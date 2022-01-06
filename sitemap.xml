@@ -2,6 +2,33 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://viva-rev.github.io/posts/6da0d01b/</loc>
+    
+    <lastmod>2022-01-06</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://viva-rev.github.io/posts/e15301f9/</loc>
+    
+    <lastmod>2022-01-04</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://viva-rev.github.io/posts/49a90f0e/</loc>
+    
+    <lastmod>2022-01-04</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://viva-rev.github.io/posts/a2c163b1/</loc>
     
     <lastmod>2022-01-01</lastmod>
@@ -29,27 +56,9 @@
   </url>
   
   <url>
-    <loc>https://viva-rev.github.io/posts/49a90f0e/</loc>
-    
-    <lastmod>2022-01-01</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://viva-rev.github.io/posts/9dfed8ae/</loc>
     
     <lastmod>2021-12-28</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://viva-rev.github.io/posts/e15301f9/</loc>
-    
-    <lastmod>2021-12-22</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -166,7 +175,7 @@
 
   <url>
     <loc>https://viva-rev.github.io/</loc>
-    <lastmod>2022-01-01</lastmod>
+    <lastmod>2022-01-06</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -174,35 +183,42 @@
   
   <url>
     <loc>https://viva-rev.github.io/tags/%E4%BF%A1%E6%81%AF%E7%A4%BE%E4%BC%9A%E4%B8%BB%E4%B9%89/</loc>
-    <lastmod>2022-01-01</lastmod>
+    <lastmod>2022-01-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://viva-rev.github.io/tags/%E5%85%A5%E9%97%A8%E5%BF%85%E8%AF%BB/</loc>
-    <lastmod>2022-01-01</lastmod>
+    <lastmod>2022-01-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://viva-rev.github.io/tags/%E6%94%B9%E8%89%AF%E4%B8%BB%E4%B9%89/</loc>
-    <lastmod>2022-01-01</lastmod>
+    <lastmod>2022-01-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://viva-rev.github.io/tags/%E5%B8%9D%E5%9B%BD%E4%B8%BB%E4%B9%89/</loc>
-    <lastmod>2022-01-01</lastmod>
+    <lastmod>2022-01-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://viva-rev.github.io/tags/%E5%89%8D%E6%B2%BF/</loc>
-    <lastmod>2022-01-01</lastmod>
+    <lastmod>2022-01-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://viva-rev.github.io/tags/%E7%A7%91%E5%B9%BB/</loc>
+    <lastmod>2022-01-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
@@ -211,49 +227,49 @@
   
   <url>
     <loc>https://viva-rev.github.io/categories/%E6%94%BF%E7%BB%8F/</loc>
-    <lastmod>2022-01-01</lastmod>
+    <lastmod>2022-01-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://viva-rev.github.io/categories/%E6%96%87%E8%89%BA/</loc>
-    <lastmod>2022-01-01</lastmod>
+    <lastmod>2022-01-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://viva-rev.github.io/categories/%E6%9E%84%E6%80%9D/</loc>
-    <lastmod>2022-01-01</lastmod>
+    <lastmod>2022-01-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://viva-rev.github.io/categories/%E6%97%B6%E8%AF%84/</loc>
-    <lastmod>2022-01-01</lastmod>
+    <lastmod>2022-01-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://viva-rev.github.io/categories/%E6%96%87%E8%89%BA/%E9%AD%94%E6%80%94%E4%BA%BA%E6%97%A5%E8%AE%B0/</loc>
-    <lastmod>2022-01-01</lastmod>
+    <lastmod>2022-01-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://viva-rev.github.io/categories/%E5%8E%86%E5%8F%B2/</loc>
-    <lastmod>2022-01-01</lastmod>
+    <lastmod>2022-01-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://viva-rev.github.io/categories/%E5%93%B2%E5%AD%A6/</loc>
-    <lastmod>2022-01-01</lastmod>
+    <lastmod>2022-01-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
